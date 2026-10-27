@@ -1,0 +1,8 @@
+{
+  "name": "Semáforo de Ruido - Aula Digital",
+  "description": "Semáforo de ruido interactivo para aulas y colegios con control acústico en tiempo real, calibración de micrófono, modos de trabajo y estadísticas de convivencia.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
